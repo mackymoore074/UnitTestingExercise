@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnitTestingExercise
+namespace Calculator
 {
     class Program
     {
